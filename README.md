@@ -23,7 +23,8 @@ python3 setup.py
 
 ### 3. RUN DEVBRUTE
 ```
-python3 devbrute.py -s {website} -u {username} -w {wordlist}
+python3 devbrute.py -s {instagram.com} -u {_Duch3ss} -w {wordlist}
+
 ```
 
 ### FIXES
